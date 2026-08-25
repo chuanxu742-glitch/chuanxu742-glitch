@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-label="Chuanxu742 AI systems terminal banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/><stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <rect x="14" y="14" width="1172" height="292" rx="12" fill="none" stroke="#334155"/>
+  <path d="M35 62H1165M35 266H1165" stroke="#1e3a5f"/>
+  <circle cx="48" cy="40" r="6" fill="#22c55e"/><circle cx="70" cy="40" r="6" fill="#eab308"/><circle cx="92" cy="40" r="6" fill="#ef4444"/>
+  <text x="120" y="45" fill="#64748b" font-family="monospace" font-size="14">CHUANXU742 // PERSONAL SYSTEMS NODE</text>
+  <text x="600" y="137" text-anchor="middle" fill="#f8fafc" font-family="monospace" font-size="48" font-weight="700" filter="url(#glow)">AI SYSTEMS // 742</text>
+  <text x="600" y="171" text-anchor="middle" fill="#f59e0b" font-family="monospace" font-size="16">PET TRAVEL OPS · AGENT TOOLING · REVERSE ENGINEERING</text>
+  <text x="72" y="218" fill="#60a5fa" font-family="monospace" font-size="14">STATUS</text><text x="190" y="218" fill="#22c55e" font-family="monospace" font-size="14">● ONLINE — BUILDING</text>
+  <text x="72" y="242" fill="#60a5fa" font-family="monospace" font-size="14">STACK </text><text x="190" y="242" fill="#cbd5e1" font-family="monospace" font-size="14">Python · TypeScript · Rust · Go · Java</text>
+  <text x="72" y="284" fill="#475569" font-family="monospace" font-size="12">// shipping useful software, one verified handoff at a time</text>
+  <text x="1130" y="284" text-anchor="end" fill="#f472b6" font-family="monospace" font-size="12">ACCESS: PUBLIC</text>
+</svg>
